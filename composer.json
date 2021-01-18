@@ -1,12 +1,12 @@
 {
-    "name": "pragmarx/datatables",
-    "description": "Server-side handler of DataTables Jquery Plugin for Laravel 4",
+    "name": "nguyenthanhlinhcoder/datatables",
+    "description": "Custom Package pragmarx/datatables Server-side handler of DataTables Jquery Plugin for Laravel 4",
     "keywords" : ["laravel4","laravel","datatables","datatable","datatables jquery plugin"],
     "license": "MIT",
     "authors": [
         {
             "name": "Bilal Gultekin",
-            "email": "bilal@bilal.im"
+            "email": "nguyenthanhlinhnuce@gmail.com"
         }
     ],
     "require": {
